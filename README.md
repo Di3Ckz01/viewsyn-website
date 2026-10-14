@@ -36,6 +36,18 @@ The project follows a component-based architecture using the **Next.js App Route
 
 ---
 
+## Preview
+
+### Light Mode
+
+![ViewSyn Dashboard - Light Mode](public/screenshots/viewsyn/light/dashboard.png)
+
+### Dark Mode
+
+![ViewSyn Dashboard - Dark Mode](public/screenshots/viewsyn/dark/dashboard.png)
+
+--
+
 ## Tech Stack
 
 - **Next.js 16**
