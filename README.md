@@ -1,5 +1,6 @@
 # ViewSyn Website
 
+
 Modern SaaS website for **ViewSyn**, a technology management platform focused on operational visibility, asset management, monitoring, and business workflows.
 
 This repository contains the public-facing website used to present the platform, its capabilities, dashboards, membership options, and contact flow.
@@ -46,7 +47,7 @@ The project follows a component-based architecture using the **Next.js App Route
 
 ![ViewSyn Dashboard - Dark Mode](public/screenshots/viewsyn/dark/dashboard.png)
 
---
+---
 
 ## Tech Stack
 
